@@ -7,6 +7,7 @@
 📝 Хочу писать чистый и читабельный код
 
 ## Мой стек
+<img src="https://github.com/Ravil377/Ravil377/blob/main/assets/html-5.svg" width="100" height="100">
 [![HTML5](https://github.com/Ravil377/Ravil377/blob/main/assets/html-5.svg | width=100)]
 [![CSS3](https://github.com/Ravil377/Ravil377/blob/main/assets/css-3_official.svg)]
 

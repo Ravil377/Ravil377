@@ -1,9 +1,14 @@
-### Hi there 👋
+## Всем привет. Меня зовут Равиль! 👋 
+
+👊 Стремлюсь к работе с настоящими боевыми проектами
+<br>
+👑 Хочу работать с опытными коллегами
+<br>
+📝 Хочу писать чистый и читабельный код
+
+## Мой стек
 
 <!--
-**Ravil377/Ravil377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

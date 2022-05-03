@@ -10,23 +10,23 @@
 <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/html-5.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/css-3.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/sass.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/javascript.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/react.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/webpack.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/nodejs.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/visual-studio-code.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/figma.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/github-icon.svg" width="70" height="70">
 
 # Мои работы
-https://ravil377.github.io/warmhouse_site/ - https://www.domgdeteplo.ru/
-https://ravil377.github.io/Avestra_site/ - https://www.avestragroup.com/
-https://ravil377.github.io/rossinsky/ 
+https://ravil377.github.io/warmhouse_site/ - https://www.domgdeteplo.ru/<br>
+https://ravil377.github.io/Avestra_site/ - https://www.avestragroup.com/<br>
+https://ravil377.github.io/rossinsky/ <br>
 
 
 
 18+<br>
-https://ravil377.github.io/girl-chat/
-https://ravil377.github.io/asianFlirts/
-https://ravil377.github.io/landing18-/
-https://ravil377.github.io/brunette/
-https://ravil377.github.io/landing18background/
-https://ravil377.github.io/hot-girls/
-https://ravil377.github.io/three-girls/
-https://ravil377.github.io/dating/
-https://ravil377.github.io/datingassistant/
-https://ravil377.github.io/landing18video/
+https://ravil377.github.io/girl-chat/<br>
+https://ravil377.github.io/asianFlirts/<br>
+https://ravil377.github.io/landing18-/<br>
+https://ravil377.github.io/brunette/<br>
+https://ravil377.github.io/landing18background/<br>
+https://ravil377.github.io/hot-girls/<br>
+https://ravil377.github.io/three-girls/<br>
+https://ravil377.github.io/dating/<br>
+https://ravil377.github.io/datingassistant/<br>
+https://ravil377.github.io/landing18video/<br>
 
 
 <a href="https://ravil377.github.io/Avestra_site/"><img src="https://github.com/Ravil377/Ravil377/blob/main/assets/avestra.png" width="400" height="200"></a>

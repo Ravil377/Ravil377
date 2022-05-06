@@ -13,7 +13,7 @@
 https://ravil377.github.io/bashneft-forum/ - http://ntk-petrotrest.ru/<br>
 https://ravil377.github.io/warmhouse_site/ - https://www.domgdeteplo.ru/<br>
 https://ravil377.github.io/Avestra_site/ - https://www.avestragroup.com/<br>
-https://ravil377.github.io/rossinsky/ <br>
+https://ravil377.github.io/rossinsky/ - http://secrets-of-taste.rossinskyufa.ru/<br>
 
 
 

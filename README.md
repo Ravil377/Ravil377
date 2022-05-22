@@ -32,12 +32,7 @@ https://ravil377.github.io/datingassistant/<br>
 https://ravil377.github.io/landing18video/<br>
 
 
-<a href="https://ravil377.github.io/Avestra_site/"><img src="https://github.com/Ravil377/Ravil377/blob/main/assets/avestra.png" width="400" height="200"></a>
-<a href="https://ravil377.github.io/warmhouse_site/"><img src="https://github.com/Ravil377/Ravil377/blob/main/assets/Screenshot_11.jpg" width="200" height="250"></a>
 <a href="https://ravil377.github.io/react-weather-api/"><img src="https://github.com/Ravil377/react-weather-api/blob/main/assets/3.jpg" width="200" height="250"></a>
-<a href="https://github.com/Ravil377/russian-travel"><img src="https://github.com/Ravil377/Ravil377/blob/main/assets/1.jpg" width="200" height="250"></a>
-<a href="https://github.com/Ravil377/how-to-learn"><img src="https://github.com/Ravil377/Ravil377/blob/main/assets/2.jpg" width="200" height="250"></a>
-<a href="https://github.com/Ravil377/mesto"><img src="https://github.com/Ravil377/Ravil377/blob/main/assets/3.jpg" width="200" height="250" alt="Javascript"></a>
 <a href="https://github.com/Ravil377/mesto-react"><img src="https://github.com/Ravil377/Ravil377/blob/main/assets/4.jpg" width="200" height="250" alt="React"></a>
 
 # Моя статистика

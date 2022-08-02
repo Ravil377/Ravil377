@@ -14,7 +14,7 @@
 https://ravil377.github.io/luaclinic - https://luaclinic.ru/<br>
 https://ravil377.github.io/opaliha-park/ - https://opaliha-park.ru/<br>
 https://ravil377.github.io/forum-zauralye/ - https://forum-zauralye.com/<br>
-https://ravil377.github.io/grandline/<br>
+https://ravil377.github.io/grandline/ - https://granline.net/<br> 
 https://ravil377.github.io/bashneft-forum/ - http://ntk-petrotrest.ru/<br>
 https://ravil377.github.io/warmhouse_site/ - https://www.domgdeteplo.ru/<br>
 https://ravil377.github.io/Avestra_site/ - https://www.avestragroup.com/<br>

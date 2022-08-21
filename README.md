@@ -11,16 +11,16 @@
 
 # Мои работы
 https://ravil377.github.io/quicknet/ - <br>
-https://ravil377.github.io/bryanskiywood/ - <br>
-https://ravil377.github.io/forsite/forsite.html - https://forsite.csr-rb.ru/<br>
-https://ravil377.github.io/luaclinic - https://luaclinic.ru/<br>
-https://ravil377.github.io/opaliha-park/ - https://opaliha-park.ru/<br>
-https://ravil377.github.io/forum-zauralye/ - https://forum-zauralye.com/<br>
-https://ravil377.github.io/grandline/ - https://granline.net/<br> 
-https://ravil377.github.io/bashneft-forum/ - http://ntk-petrotrest.ru/<br>
-https://ravil377.github.io/warmhouse_site/ - https://www.domgdeteplo.ru/<br>
-https://ravil377.github.io/Avestra_site/ - https://www.avestragroup.com/<br>
-https://ravil377.github.io/rossinsky/ - http://secrets-of-taste.rossinskyufa.ru/<br>
+https://dveri93.ru/<br>
+https://forsite.csr-rb.ru/<br>
+https://luaclinic.ru/<br>
+https://opaliha-park.ru/<br>
+https://forum-zauralye.com/<br>
+https://granline.net/<br> 
+http://ntk-petrotrest.ru/<br>
+https://www.domgdeteplo.ru/<br>
+https://www.avestragroup.com/<br>
+http://secrets-of-taste.rossinskyufa.ru/<br>
 
 
 

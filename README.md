@@ -10,15 +10,8 @@
 <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/html-5.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/css-3.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/sass.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/javascript.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/react.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/webpack.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/nodejs.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/visual-studio-code.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/figma.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/github-icon.svg" width="70" height="70">
 
 # Мои работы
-https://granline.net/ <br>
-http://quick-net.ru/ <br>
 https://dveri93.ru/<br>
-https://forsite.csr-rb.ru/<br>
 https://luaclinic.ru/<br>
-https://opaliha-park.ru/<br>
-https://forum-zauralye.com/<br>
-https://granline.net/<br> 
-http://ntk-petrotrest.ru/<br>
 https://www.domgdeteplo.ru/<br>
 https://www.avestragroup.com/<br>
 http://secrets-of-taste.rossinskyufa.ru/<br>

@@ -10,10 +10,13 @@
 <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/html-5.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/css-3.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/sass.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/javascript.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/react.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/webpack.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/nodejs.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/visual-studio-code.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/figma.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/github-icon.svg" width="70" height="70">
 
 # My work
-
-http://virginia.cf94973.tw1.ru/<br>
+https://oaomkk.ru/<br>
+https://fks-moscow.ru/<br>
+https://anol-prom.ru/><br>
+http://virginiaspb.ru/<br>
 https://decart.su/<br>
 https://granline.net/<br>
+https://labmos24.ru/><br>
 http://ntk-petrotrest.ru/<br>
 https://www.avestragroup.com/<br>
 http://quick-net.ru/<br>

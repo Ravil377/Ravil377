@@ -18,7 +18,7 @@ http://virginiaspb.ru/<br>
 https://decart.su/<br>
 https://granline.net/<br>
 https://labmos24.ru/><br>
-http://ntk-petrotrest.ru/<br>
+http://ntk-petrotest.ru/<br>
 https://www.avestragroup.com/<br>
 http://quick-net.ru/<br>
 https://dveri93.ru/<br>

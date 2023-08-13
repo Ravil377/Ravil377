@@ -12,24 +12,24 @@
 # My work
 https://avtoshkola-uspeh.ru/<br>
 https://www.cpufa.com/<br>
-http://diveevo-tours.ru/<br>
+https://diveevo-tours.ru/<br>
 https://oaomkk.ru/<br>
 https://fks-finance.ru/<br>
 https://anol-prom.ru/<br>
-http://virginiaspb.ru/<br>
+https://virginiaspb.ru/<br>
 https://decart.su/<br>
 https://granline.net/<br>
 https://labmos24.ru/><br>
-http://ntk-petrotest.ru/<br>
+https://ntk-petrotest.ru/<br>
 https://www.avestragroup.com/<br>
-http://quick-net.ru/<br>
+https://quick-net.ru/<br>
 https://dveri93.ru/<br>
 https://forsite.csr-rb.ru/<br>
 https://luaclinic.ru/<br>
 https://opaliha-park.ru/<br>
 https://forum-zauralye.com/<br>
 https://www.domgdeteplo.ru/<br>
-http://secrets-of-taste.rossinskyufa.ru/
+https://secrets-of-taste.rossinskyufa.ru/
 
 18+<br>
 https://ravil377.github.io/girl-chat/<br>

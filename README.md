@@ -19,7 +19,7 @@ https://anol-prom.ru/<br>
 https://virginiaspb.ru/<br>
 https://decart.su/<br>
 https://granline.net/<br>
-https://labmos24.ru/><br>
+https://labmos24.ru/<br>
 https://ntk-petrotest.ru/<br>
 https://www.avestragroup.com/<br>
 https://quick-net.ru/<br>

@@ -10,6 +10,8 @@
 <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/html-5.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/css-3.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/sass.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/javascript.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/react.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/webpack.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/nodejs.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/visual-studio-code.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/figma.svg" width="70" height="70">   <img src="https://github.com/Ravil377/Ravil377/blob/main/assets/github-icon.svg" width="70" height="70">
 
 # My work
+https://profbild.ru/<br>
+https://telepropusk.ru/<br>
 https://avtoshkola-uspeh.ru/<br>
 https://www.cpufa.com/<br>
 https://diveevo-tours.ru/<br>
